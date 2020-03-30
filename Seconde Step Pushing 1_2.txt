@@ -1,0 +1,4 @@
+1- I will push this File
+2- then commit
+3- I will creat a new file
+4- Let's see what happen if i didn't push the commit before creating something new.
