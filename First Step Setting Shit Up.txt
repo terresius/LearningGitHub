@@ -1,0 +1,3 @@
+I learned that it is Easier to create the Repositories Directly from GitHUb Desktop rather then Github web site.
+
+On the Web site the Step are completly confuse. On the application when you create it, the Web site jsute generetae the rest For you
