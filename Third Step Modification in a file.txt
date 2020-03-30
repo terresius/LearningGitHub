@@ -1,0 +1,12 @@
+I did made a modification in the Exercise "Seconde Step 2_2"
+I Commited the File Creation + my expectation
+Then I commit again + My new expectation
+1 Push is needed for différent Commit
+
+In that Exercise 
+1-I will modify the Texte after Changing a Code.
+2- Exercise "Seconde Step 2_2" will receive more texte, but no modification in it
+
+
+Code:
+124easrgfsdfgsg45

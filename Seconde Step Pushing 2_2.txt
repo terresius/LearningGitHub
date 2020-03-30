@@ -5,3 +5,15 @@ Now what you have to do:
 2- Look what Happen Into Github desktop
 3-Unknow
 4-
+
+
+
+After the Exercise
+-I learned that it make you commit again
+-I learned that it will not force you to Push
+-I belive it would then push the 2 Commit exactly like in SVN when you just push several different object.
+- A commit is juste a groupe of element that you saved at a certain periode
+- A push is a compilation of Commit 
+
+
+Expectation:(it is probably possible that the Host can decide to revert 1 commit of a push with 2 commit.)
